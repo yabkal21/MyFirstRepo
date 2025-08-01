@@ -1,1 +1,3 @@
-"In this course, I learned how to use Git and GitHub to manage code, create branches, and collaborate with others. I now understand version control and can confidently work on repositories both locally and online." 
+What I have learned from this course:
+I have learned how to create GitHub repositories, manage files, make commits, create branches, and collaborate using pull requests. 
+This course has helped me understand the basics of version control and how to work with Git and GitHub confidently.
