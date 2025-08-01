@@ -1,0 +1,1 @@
+"In this course, I learned how to use Git and GitHub to manage code, create branches, and collaborate with others. I now understand version control and can confidently work on repositories both locally and online." 
